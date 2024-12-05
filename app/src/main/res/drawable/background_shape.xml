@@ -1,0 +1,6 @@
+<!-- res/drawable/background_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#ECF0F1"/> <!-- 배경 색상 -->
+    <corners android:radius="16dp"/> <!-- 둥근 모서리 -->
+    <padding android:left="16dp" android:right="16dp" android:top="8dp" android:bottom="8dp"/> <!-- 패딩 추가 -->
+</shape>

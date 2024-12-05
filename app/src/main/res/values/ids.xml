@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main" type="id">@id/main</item>  <!-- main을 다른 리소스에서 참조 -->
+</resources>

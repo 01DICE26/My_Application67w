@@ -1,0 +1,6 @@
+<!-- res/drawable/card.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#a7d1fc"/> <!-- 배경색: 흰색 -->
+    <corners android:radius="12dp"/> <!-- 둥근 모서리 -->
+    <elevation android:value="4dp"/> <!-- 카드 깊이 -->
+</shape>

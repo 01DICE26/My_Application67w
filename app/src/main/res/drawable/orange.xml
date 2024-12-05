@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 그라디언트 배경 -->
+    <gradient
+        android:startColor="#E74C3C"
+        android:centerColor="#FF6347"
+        android:endColor="#FF4500"
+        android:angle="45"/>
+
+    <!-- 둥근 모서리 설정 -->
+    <corners android:radius="16dp"/>
+</shape>
